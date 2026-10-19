@@ -43,8 +43,8 @@ I'm starting my career in health technology, focused on building secure, interop
 ## Let's Connect
 
 - 💼 LinkedIn: [https://www.linkedin.com/in/chidiogo-anisiobi-458557274]
-- 📧 Email: [emilyhealthtech]
-- 🌐 Portfolio / Blog: [emilyhealthtech.github.io]
+- 📧 Email: [emilyhealthtech@gmail.com](mailto:emilyhealthtech@gmail.com)
+- 🌐 Portfolio / Blog: [emilyhealthtech.github.io](emilyhealthtech.github.io)
 
 ---
 
