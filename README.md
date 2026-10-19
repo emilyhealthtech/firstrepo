@@ -1,4 +1,4 @@
-# Hi, I'm [Emily] 👋
+# Hi, I'm Emily 👋
 
 **Aspiring Health Tech Engineer** | Building tools at the intersection of healthcare and software
 
@@ -42,10 +42,10 @@ I'm starting my career in health technology, focused on building secure, interop
 
 ## Let's Connect
 
-- 💼 LinkedIn: [your-link-here]
-- 📧 Email: [your-email-here]
-- 🌐 Portfolio / Blog: [your-link-here]
+- 💼 LinkedIn: [https://www.linkedin.com/in/chidiogo-anisiobi-458557274]
+- 📧 Email: [emilyhealthtech]
+- 🌐 Portfolio / Blog: [emilyhealthtech.github.io]
 
 ---
 
-*Open to learning, collaboration, and conversations about health tech.*
+*Open to learning, collaboration, and conversations about health tech.
